@@ -3,7 +3,7 @@ import time
 import webbrowser
 import  schedule
 def join_gmeet():
-    webbrowser.open("https://meet.google.com/sfw-espv-bcm?pli=1&authuser=1")
+    webbrowser.open("https://meet.google.com/ucg-dtgh-ngd")
     time.sleep(8)
     # print(pyautogui.position())
     # pyautogui.click(1786, 144)
