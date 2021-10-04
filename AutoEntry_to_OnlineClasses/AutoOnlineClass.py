@@ -54,10 +54,10 @@ def monday():
     schedule.every().monday.at("10:59").do(join_gmeet,EE2025)
 
 def tuesday():
-    schedule.every().monday.at("07:58").do(open_obs, obs)
+    schedule.every().tuesday.at("07:58").do(open_obs, obs)
     schedule.every().tuesday.at("07:59").do(join_webex,tue_2016)
     schedule.every().tuesday.at("09:59").do(join_gmeet, EE2025)
-    schedule.every().monday.at("12:58").do(open_obs, obs)
+    schedule.every().tuesday.at("12:58").do(open_obs, obs)
     schedule.every().tuesday.at("12:59").do(join_webex, EE3110)
 
 def wednesday():
