@@ -6,4 +6,4 @@ Using "pyautogui" library in python we can automate keyboard keys to take a scre
 
 Whenever the we keep our hand less than 10 cm near Ultrasonic sensor it takes a screenshot 
 
-[Video](https://youtu.be/g-xYufZtrBk)
+[Video](https://www.youtube.com/watch?v=wG0ggEHjKVw)
